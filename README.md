@@ -12,9 +12,9 @@ Organisation
 - Ajout de d'un gitignore pour éviter les fichier inutile dans le repo - [x]
 
 Objectifs n°1 : Crée une scène 2D
-- Ajouter un sol - []
-- Ajouter un personnage - []
-- Ajouter une caméra centré - []
+- Ajouter un sol - [x]
+- Ajouter un personnage - [x]
+- Ajouter une caméra - [x]
 
 Objectifs n°2 : Crée un script pour le déplacement du personnage.
 - Déplacement sur l'axe horizontale - []
